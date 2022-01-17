@@ -1,0 +1,15 @@
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\bin\Debug\net6.0\FuelCalculator.exe
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\bin\Debug\net6.0\FuelCalculator.deps.json
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\bin\Debug\net6.0\FuelCalculator.runtimeconfig.json
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\bin\Debug\net6.0\FuelCalculator.dll
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\bin\Debug\net6.0\ref\FuelCalculator.dll
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\bin\Debug\net6.0\FuelCalculator.pdb
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\obj\Debug\net6.0\FuelCalculator.csproj.AssemblyReference.cache
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\obj\Debug\net6.0\FuelCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\obj\Debug\net6.0\FuelCalculator.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\obj\Debug\net6.0\FuelCalculator.AssemblyInfo.cs
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\obj\Debug\net6.0\FuelCalculator.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\obj\Debug\net6.0\FuelCalculator.dll
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\obj\Debug\net6.0\ref\FuelCalculator.dll
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\obj\Debug\net6.0\FuelCalculator.pdb
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\obj\Debug\net6.0\FuelCalculator.genruntimeconfig.cache

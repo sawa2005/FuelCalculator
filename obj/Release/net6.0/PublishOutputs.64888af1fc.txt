@@ -1,0 +1,5 @@
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\bin\Release\net6.0\publish\FuelCalculator.exe
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\bin\Release\net6.0\publish\FuelCalculator.dll
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\bin\Release\net6.0\publish\FuelCalculator.deps.json
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\bin\Release\net6.0\publish\FuelCalculator.runtimeconfig.json
+C:\Users\samue\Documents\Webbutveckling\C#\Projekt\FuelCalculator\bin\Release\net6.0\publish\FuelCalculator.pdb
